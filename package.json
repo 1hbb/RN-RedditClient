@@ -1,0 +1,56 @@
+{
+  "name": "RedditClon",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.12.0",
+    "@react-native-community/blur": "^3.6.0",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/bottom-tabs": "^5.8.0",
+    "@react-navigation/drawer": "^5.9.0",
+    "@react-navigation/native": "^5.7.3",
+    "@react-navigation/stack": "^5.9.0",
+    "axios": "^0.21.0",
+    "react": "16.13.1",
+    "react-native": "0.63.3",
+    "react-native-app-auth": "^6.0.0",
+    "react-native-gesture-handler": "^1.8.0",
+    "react-native-image-progress": "^1.1.1",
+    "react-native-image-zoom-viewer": "^3.0.1",
+    "react-native-inappbrowser-reborn": "^3.5.1",
+    "react-native-lightbox": "^0.8.1",
+    "react-native-modalbox": "^2.0.2",
+    "react-native-modalize": "^2.0.6",
+    "react-native-modals": "^0.19.9",
+    "react-native-reanimated": "^1.13.0",
+    "react-native-safe-area-context": "^3.1.7",
+    "react-native-screens": "^2.10.1",
+    "react-native-swiper": "^1.6.0",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/runtime": "^7.11.2",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "babel-jest": "^26.3.0",
+    "eslint": "^7.7.0",
+    "jest": "^26.4.2",
+    "jetifier": "^1.6.6",
+    "metro-react-native-babel-preset": "^0.63.0",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

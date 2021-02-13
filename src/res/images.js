@@ -1,0 +1,33 @@
+const images = {
+  redditLogo: require('./images/redditLogo.png'),
+  googleLogo: require('./images/googleLogo.png'),
+  closeIcon: require('./images/close.png'),
+  redditLogoWithText: require('./images/redditLogowithText.png'),
+  home: require('./images/home.png'),
+  home_selected: require('./images/home_selected.png'),
+  comunities: require('./images/comunities.png'),
+  comunities_selected: require('./images/comunities_selected.png'),
+  addPost: require('./images/addPost.png'),
+  addPost_selected: require('./images/addPost_selected.png'),
+  chat: require('./images/chat.png'),
+  chat_selected: require('./images/chat_selected.png'),
+  inbox: require('./images/inbox.png'),
+  inbox_selected: require('./images/inbox_selected.png'),
+  searchIcon: require('./images/searchIcon.png'),
+  coinIcon: require('./images/coinIcon.png'),
+  circle: require('./images/circle.png'),
+  upvote: require('./images/upvote.png'),
+  downvote: require('./images/downvote.png'),
+  upvoteOrange: require('./images/upvoteOrange.png'),
+  downvoteBlue: require('./images/downvoteBlue.png'),
+  comment: require('./images/comment.png'),
+  share: require('./images/share.png'),
+  giftIcon: require('./images/giftIcon.png'),
+  compassIcon: require('./images/compass.jpg'),
+  profile: require('./images/profile.png'),
+  profileSelected: require('./images/profileSelected.png'),
+  loginPageRedditIcon: require('./images/loginRedditIcon.png'),
+
+};
+
+export default images;
