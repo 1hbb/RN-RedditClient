@@ -2,6 +2,7 @@
 
 ## Simple Reddit client written in RN.
 
+### How To Use
 - `git clone https://github.com/1hbb/RN-RedditClient.git`
 - `cd  RN-RedditClient`
 - `npm install`
