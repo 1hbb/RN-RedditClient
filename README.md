@@ -1,5 +1,6 @@
 # RN-RedditClient
 
+## Simple Reddit client written in RN.
 
 - `git clone https://github.com/1hbb/RN-RedditClient.git`
 - `cd  RN-RedditClient`
